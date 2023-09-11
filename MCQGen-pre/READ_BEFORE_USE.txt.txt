@@ -1,0 +1,17 @@
+Instructions: Run everything from top to bottom.
+
+Pros:
+The flow is indeed working. 
+The bot has stopped whenever it gives a question for the user, and it also does not move on 
+to the next question until the right answer has been input.
+The bot is processing the questions in a correct order, from asking about the statements to asking about the paragraph.
+
+Cons:
+The flow isn't finished, as the comparison and the T/F/NG part is not finished.
+The bot doesn't automatically asks questions like it was supposed do. The way to make it follow the steps is to ask it to follow the steps it was given.
+The options are not formatted correctly and are connected.
+The options are heavily halluncinated, and will be worked on.
+The explanations for each options aren't really good, and will be worked on in the future.
+
+
+
